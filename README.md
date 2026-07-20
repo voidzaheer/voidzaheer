@@ -4,10 +4,10 @@
 
 ## Software Engineering Student | Android & Full-Stack Developer
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thezaheershaikh)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/izenparker)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:zaheerocean@gmail)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thezaheershaikh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izenparker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 ---
 
@@ -82,8 +82,8 @@ const projects = {
 
 ```yaml
 email: zaheerocean@gmail.com
-github: https://github.com/thezaheershaikh
-linkedin: https://linkedin.com/in/thezaheershaikh
+github: https://github.com/izenparker
+linkedin: https://linkedin.com/in/izenparker
 portfolio: https://zaheer.vercel.app/
 ```
 
@@ -92,19 +92,19 @@ portfolio: https://zaheer.vercel.app/
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=dracula&hide_border=true" alt="GitHub streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izenparker&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=izenparker&theme=dracula&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=dracula&hide_border=true&layout=compact" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izenparker&theme=dracula&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 ---
 
 ## Activity Graph
 
-[![thezaheershaikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezaheershaikh&theme=dracula)](https://github.com/thezaheershaikh)
+[![izenparker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izenparker&theme=dracula)](https://github.com/izenparker)
 
 ---
 
@@ -126,6 +126,6 @@ portfolio: https://zaheer.vercel.app/
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/thezaheershaikh](https://linkedin.com/in/thezaheershaikh)
+- LinkedIn: [linkedin.com/in/izenparker](https://linkedin.com/in/izenparker)
 - Email: zaheerocean@gmail.com
 - Portfolio: https://zaheer.vercel.app/
