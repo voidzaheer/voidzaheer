@@ -92,12 +92,12 @@ portfolio: https://zaheer.vercel.app/
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izenparker&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=izenparker&theme=dracula&hide_border=true" alt="GitHub streak" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=izenparker&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=izenparker&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izenparker&theme=dracula&hide_border=true&layout=compact" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=izenparker&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
