@@ -1,131 +1,85 @@
-<img width="1400" height="349" alt="Image" src="https://github.com/user-attachments/assets/504c3aa3-b208-4c21-b461-e4b5da91d9f9" />
+<img width="100%" alt="Header" src="https://github.com/user-attachments/assets/504c3aa3-b208-4c21-b461-e4b5da91d9f9" />
 
-# Zaheer 
+# Zaheer Ali Shaikh
 
-## Software Engineering Student | Android & Full-Stack Developer
+**Software Engineering Student | Android & Full-Stack Developer**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/voidzaheer)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:zaheerocean@gmail)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voidzaheer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
----
-
-## bio.js
-
-```javascript
-const developer = {
-  name: "Zaheer Ali Shaikh",
-  role: "Android & Full-Stack Developer",
-  location: "Mumbai, India",
-  education: "B.E. Computer Science & Engineering, University of Mumbai (Expected 2027)",
-  focus: ["Android Development", "Full-Stack Web Development", "System Design"],
-  portfolio: "https://zaheer.vercel.app/",
-  stack: ["Kotlin", "Java", "JavaScript", "React", "Node.js", "Firebase"],
-  currentlyLearning: ["System Design Fundamentals", "Advanced DSA", "Testing & CI/CD"],
-  mission: "Build clean, well-architected applications and keep learning from real-world systems."
-};
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/voidzaheer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zaheer.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zaheerocean@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=voidzaheer&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/voidzaheer)
 
 ---
 
-## skills.json
+## About
 
-```json
-{
-  "languages": ["Kotlin", "Java", "C++", "JavaScript", "Python", "Rust", "Dart", "SQL"],
-  "android": ["MVVM", "Clean Architecture", "Hilt", "Room", "Retrofit", "Flutter"],
-  "frontend": ["React.js", "HTML5", "CSS3", "Material UI"],
-  "backend": ["Node.js", "Express.js", "REST APIs", "Firebase Functions"],
-  "databases": ["MongoDB", "MySQL", "PostgreSQL", "Firebase Firestore", "Room DB"],
-  "tools": ["Git", "GitHub", "Postman", "Android Studio", "VS Code", "AWS EC2"],
-  "currentlyLearning": ["System Design", "Testing with JUnit/Jest", "CI/CD pipelines"]
-}
-```
+Computer Science & Engineering student at the University of Mumbai (Expected 2027). Focused on building clean, well-architected Android and full-stack web applications. Passionate about software architecture, system design, and algorithmic problem solving with 250+ Data Structures & Algorithms problems solved.
 
 ---
 
-## projects.js
+## Technical Skills
 
-```javascript
-const projects = {
-  "01": {
-    name: "Kora Music",
-    description: "Production-grade Android music streaming app",
-    stack: ["Kotlin", "MVVM", "Clean Architecture", "ExoPlayer", "Firebase", "Room", "Hilt"],
-    highlights: ["Offline caching", "Multi-tier subscriptions", "Encrypted sessions"]
-  },
-  "02": {
-    name: "Finance Manager App",
-    description: "Personal finance tracker with budgeting and analytics",
-    stack: ["Kotlin", "MVVM", "Room DB"],
-    highlights: ["Offline-first architecture", "LiveData + ViewModel"]
-  },
-  "03": {
-    name: "E-Commerce Platform",
-    description: "Full-stack e-commerce app with cart, checkout, and admin dashboard",
-    stack: ["React.js", "Node.js", "MongoDB", "Stripe", "JWT"],
-    highlights: ["JWT auth", "Role-based access", "Stripe integration"]
-  },
-  "04": {
-    name: "SaaS Analytics Dashboard",
-    description: "Full-stack dashboard with REST APIs and data visualizations",
-    stack: ["React.js", "Node.js", "MongoDB"],
-    highlights: ["Express REST APIs", "Subscription-based access model"]
-  }
-};
-```
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Kotlin, Java, C++, JavaScript, Python, Rust, Dart, SQL |
+| **Mobile & Frontend** | Android (MVVM, Clean Architecture, Hilt, Room, Retrofit), Flutter, React.js, HTML5, CSS3 |
+| **Backend & Databases** | Node.js, Express.js, REST APIs, MongoDB, MySQL, PostgreSQL, Firebase |
+| **Tools & Infrastructure** | Git, GitHub, Android Studio, VS Code, Postman, AWS |
 
----
-
-## contact.yml
-
-```yaml
-email: zaheerocean@gmail.com
-github: https://github.com/voidzaheer
-linkedin: https://linkedin.com/in/voidzaheer
-portfolio: https://zaheer.vercel.app/
-```
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=voidzaheer&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=voidzaheer&theme=radical" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=voidzaheer&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-## Activity Graph
-
-[![voidzaheer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=voidzaheer&theme=dracula)](https://github.com/voidzaheer)
-
----
-
-## Tech Stack
+<br />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js,react,nodejs,express,mongodb,mysql,postgres,firebase,androidstudio,flutter,git,github,vscode,postman,aws" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js,react,nodejs,express,mongodb,mysql,postgres,firebase,androidstudio,flutter,git,github,vscode,postman,aws" alt="Technical Stack Icons" />
 </p>
 
 ---
 
-## Currently
+## Featured Projects
 
-- Working on production-quality Android and full-stack projects
-- Practicing Data Structures & Algorithms (250+ problems solved so far)
-- Looking for a Software Engineering internship to learn from experienced engineers and contribute to real codebases
+### 01. Kora Music
+Production-grade Android music streaming application built using MVVM and Clean Architecture.
+- **Stack:** Kotlin, MVVM, Clean Architecture, ExoPlayer, Firebase, Room, Hilt
+- **Key Features:** Offline caching, multi-tier subscription models, and encrypted session handling.
+
+### 02. E-Commerce Platform
+Full-stack web application featuring product management, shopping cart, and secure checkout.
+- **Stack:** React.js, Node.js, Express.js, MongoDB, Stripe API, JWT
+- **Key Features:** Role-based access control (RBAC), JWT authentication, and Stripe payment integration.
+
+### 03. Finance Manager
+Offline-first Android application designed for personal expense tracking and financial analytics.
+- **Stack:** Kotlin, MVVM, Room Database, LiveData, ViewModel
+- **Key Features:** Reactive UI architecture, local data persistence, and budgeting breakdown.
+
+### 04. SaaS Analytics Dashboard
+Analytics platform delivering real-time metrics and data visualization.
+- **Stack:** React.js, Node.js, Express.js, MongoDB
+- **Key Features:** RESTful API architecture, interactive chart components, and subscription-level access.
 
 ---
 
-## Connect
+## GitHub Analytics
 
-- LinkedIn: [linkedin.com/in/voidzaheer](https://linkedin.com/in/voidzaheer)
-- Email: zaheerocean@gmail.com
-- Portfolio: https://zaheer.vercel.app/
+<p align="center">
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=voidzaheer&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=voidzaheer&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/streak?username=voidzaheer&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=voidzaheer&theme=dracula)](https://github.com/voidzaheer)
+
+---
+
+## Contact
+
+- **Email:** zaheerocean@gmail.com
+- **LinkedIn:** [linkedin.com/in/voidzaheer](https://linkedin.com/in/voidzaheer)
+- **Portfolio:** [zaheer.vercel.app](https://zaheer.vercel.app/)
+- **GitHub:** [github.com/voidzaheer](https://github.com/voidzaheer)
