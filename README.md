@@ -1,6 +1,6 @@
 <img width="100%" alt="Header" src="https://github.com/user-attachments/assets/504c3aa3-b208-4c21-b461-e4b5da91d9f9" />
 
-# Zaheer Ali Shaikh
+# Zaheer 
 
 **Software Engineering Student | Android & Full-Stack Developer**
 
