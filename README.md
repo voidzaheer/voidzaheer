@@ -4,10 +4,10 @@
 
 ## Software Engineering Student | Android & Full-Stack Developer
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/izenparker)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/voidzaheer)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:zaheerocean@gmail)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izenparker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=voidzaheer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 ---
 
@@ -82,8 +82,8 @@ const projects = {
 
 ```yaml
 email: zaheerocean@gmail.com
-github: https://github.com/izenparker
-linkedin: https://linkedin.com/in/izenparker
+github: https://github.com/voidzaheer
+linkedin: https://linkedin.com/in/voidzaheer
 portfolio: https://zaheer.vercel.app/
 ```
 
@@ -92,19 +92,19 @@ portfolio: https://zaheer.vercel.app/
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=izenparker&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=izenparker&theme=radical" alt="GitHub streak" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=voidzaheer&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=voidzaheer&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=izenparker&layout=compact&theme=radical" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=voidzaheer&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
 ## Activity Graph
 
-[![izenparker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izenparker&theme=dracula)](https://github.com/izenparker)
+[![voidzaheer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=voidzaheer&theme=dracula)](https://github.com/voidzaheer)
 
 ---
 
@@ -126,6 +126,6 @@ portfolio: https://zaheer.vercel.app/
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/izenparker](https://linkedin.com/in/izenparker)
+- LinkedIn: [linkedin.com/in/voidzaheer](https://linkedin.com/in/voidzaheer)
 - Email: zaheerocean@gmail.com
 - Portfolio: https://zaheer.vercel.app/
