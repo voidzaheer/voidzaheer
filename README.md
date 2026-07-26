@@ -11,9 +11,22 @@
 
 ---
 
-## About
+## about.js
 
-Computer Science & Engineering student at the University of Mumbai (Expected 2027). Focused on building clean, well-architected Android and full-stack web applications. Passionate about software architecture, system design, and algorithmic problem solving with 250+ Data Structures & Algorithms problems solved.
+```javascript
+$ cat about.js
+
+const developer = {
+  name: "Zaheer Ali Shaikh",
+  role: "Software Engineering Student | Android & Full-Stack Developer",
+  location: "Mumbai, India",
+  education: "B.E. Computer Science & Engineering, University of Mumbai (Expected 2027)",
+  focus: ["Android Development", "Full-Stack Web Development", "System Design"],
+  problemSolving: "250+ Data Structures & Algorithms problems solved",
+  portfolio: "https://zaheer.vercel.app/",
+  status: "Open for Software Engineering Internships"
+};
+```
 
 ---
 
@@ -31,30 +44,6 @@ Computer Science & Engineering student at the University of Mumbai (Expected 202
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js,react,nodejs,express,mongodb,mysql,postgres,firebase,androidstudio,flutter,git,github,vscode,postman,aws" alt="Technical Stack Icons" />
 </p>
-
----
-
-## Featured Projects
-
-### 01. Kora Music
-Production-grade Android music streaming application built using MVVM and Clean Architecture.
-- **Stack:** Kotlin, MVVM, Clean Architecture, ExoPlayer, Firebase, Room, Hilt
-- **Key Features:** Offline caching, multi-tier subscription models, and encrypted session handling.
-
-### 02. E-Commerce Platform
-Full-stack web application featuring product management, shopping cart, and secure checkout.
-- **Stack:** React.js, Node.js, Express.js, MongoDB, Stripe API, JWT
-- **Key Features:** Role-based access control (RBAC), JWT authentication, and Stripe payment integration.
-
-### 03. Finance Manager
-Offline-first Android application designed for personal expense tracking and financial analytics.
-- **Stack:** Kotlin, MVVM, Room Database, LiveData, ViewModel
-- **Key Features:** Reactive UI architecture, local data persistence, and budgeting breakdown.
-
-### 04. SaaS Analytics Dashboard
-Analytics platform delivering real-time metrics and data visualization.
-- **Stack:** React.js, Node.js, Express.js, MongoDB
-- **Key Features:** RESTful API architecture, interactive chart components, and subscription-level access.
 
 ---
 
