@@ -1,7 +1,6 @@
 <img width="100%" alt="Header" src="https://github.com/user-attachments/assets/504c3aa3-b208-4c21-b461-e4b5da91d9f9" />
 
-# Zaheer Ali Shaikh
-
+# Zaheer 
 **Software Engineering Student | Android & Full-Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/voidzaheer)
@@ -17,12 +16,12 @@
 $ cat about.js
 
 const developer = {
-  name: "Zaheer Ali Shaikh",
+  name: "Zaheer",
   role: "Software Engineering Student | Android & Full-Stack Developer",
   location: "Mumbai, India",
-  education: "B.E. Computer Science & Engineering, University of Mumbai (Expected 2027)",
+  education: "B.E. in Electrical & Computer Engineering, University of Mumbai (Expected 2027)",
   focus: ["Android Development", "Full-Stack Web Development", "System Design"],
-  problemSolving: "250+ Data Structures & Algorithms problems solved",
+  problemSolving: "100+ Data Structures & Algorithms problems solved",
   portfolio: "https://zaheer.vercel.app/",
   status: "Open for Software Engineering Internships"
 };
