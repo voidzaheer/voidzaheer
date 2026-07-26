@@ -1,6 +1,7 @@
 <img width="100%" alt="Header" src="https://github.com/user-attachments/assets/504c3aa3-b208-4c21-b461-e4b5da91d9f9" />
 
-# Zaheer 
+# Zaheer Ali Shaikh
+
 **Software Engineering Student | Android & Full-Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/voidzaheer)
@@ -16,16 +17,33 @@
 $ cat about.js
 
 const developer = {
-  name: "Zaheer",
+  name: "Zaheer Ali Shaikh",
   role: "Software Engineering Student | Android & Full-Stack Developer",
   location: "Mumbai, India",
-  education: "B.E. in Electrical & Computer Engineering, University of Mumbai (Expected 2027)",
+  education: "B.E. Computer Science & Engineering, University of Mumbai (Expected 2027)",
   focus: ["Android Development", "Full-Stack Web Development", "System Design"],
-  problemSolving: "100+ Data Structures & Algorithms problems solved",
+  problemSolving: "250+ Data Structures & Algorithms problems solved",
   portfolio: "https://zaheer.vercel.app/",
   status: "Open for Software Engineering Internships"
 };
+
+$ ./system_info.sh --developer
+
+USER          : voidzaheer
+ENVIRONMENT   : Android Studio / VS Code / Linux
+ARCHITECTURE  : MVVM, Clean Architecture, REST APIs
+PHILOSOPHY    : First-Principles Thinking & Clean Code
+METRICS       : 250+ DSA Problems Solved
+STATUS        : System Nominal / Ready to Collaborate
 ```
+
+---
+
+## Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
+</p>
 
 ---
 
