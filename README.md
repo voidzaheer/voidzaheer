@@ -77,6 +77,18 @@ STATUS        : System Nominal / Ready to Collaborate
 
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenzenes/zenzenes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenzenes/zenzenes/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/zenzenes/zenzenes/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenzenes&theme=dracula)](https://github.com/zenzenes)
