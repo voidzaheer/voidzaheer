@@ -4,10 +4,10 @@
 
 **Software Engineering Student | Android & Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zenzenes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/voidzaheer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zaheer.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zaheerocean@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=zenzenes&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/zenzenes)
+[![Profile Views](https://komarev.com/ghpvc/?username=voidzaheer&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/voidzaheer)
 
 ---
 
@@ -29,7 +29,7 @@ const developer = {
 
 $ ./system_info.sh --developer
 
-USER          : zenzenes
+USER          : voidzaheer
 ENVIRONMENT   : Android Studio / VS Code / Linux
 ARCHITECTURE  : MVVM, Clean Architecture, REST APIs
 PHILOSOPHY    : First-Principles Thinking & Clean Code
@@ -67,12 +67,12 @@ STATUS        : System Nominal / Ready to Collaborate
 ## GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=zenzenes&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zenzenes&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=voidzaheer&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=voidzaheer&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/streak?username=zenzenes&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/streak?username=voidzaheer&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -81,9 +81,9 @@ STATUS        : System Nominal / Ready to Collaborate
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenzenes/zenzenes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenzenes/zenzenes/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/zenzenes/zenzenes/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidzaheer/voidzaheer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voidzaheer/voidzaheer/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/voidzaheer/voidzaheer/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -91,13 +91,13 @@ STATUS        : System Nominal / Ready to Collaborate
 
 ## Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenzenes&theme=dracula)](https://github.com/zenzenes)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=voidzaheer&theme=dracula)](https://github.com/voidzaheer)
 
 ---
 
 ## Contact
 
 - **Email:** zaheerocean@gmail.com
-- **LinkedIn:** [linkedin.com/in/zenzenes](https://linkedin.com/in/zenzenes)
+- **LinkedIn:** [linkedin.com/in/voidzaheer](https://linkedin.com/in/voidzaheer)
 - **Portfolio:** [zaheer.vercel.app](https://zaheer.vercel.app/)
-- **GitHub:** [github.com/zenzenes](https://github.com/zenzenes)
+- **GitHub:** [github.com/voidzaheer](https://github.com/voidzaheer)
