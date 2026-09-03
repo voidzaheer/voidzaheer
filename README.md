@@ -89,12 +89,6 @@ STATUS        : System Nominal / Ready to Collaborate
 
 ---
 
-## Activity
-
-[![Zaheer's github activity graph](https://activity-graph.herokuapp.com/graph?username=voidzaheer&theme=dracula)](https://github.com/voidzaheer/github-readme-activity-graph)
-
----
-
 ## Contact
 
 - **Email:** zaheerocean@gmail.com
