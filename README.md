@@ -91,7 +91,7 @@ STATUS        : System Nominal / Ready to Collaborate
 
 ## Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=voidzaheer&theme=dracula)](https://github.com/voidzaheer)
+[![Zaheer's github activity graph](https://activity-graph.herokuapp.com/graph?username=voidzaheer&theme=dracula)](https://github.com/voidzaheer/github-readme-activity-graph)
 
 ---
 
