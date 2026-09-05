@@ -17,7 +17,7 @@
 $ cat about.js
 
 const developer = {
-  name: "Zaheer Ali Shaikh",
+  name: "Zaheer",
   role: "Software Engineering Student | Android & Full-Stack Developer",
   location: "Mumbai, India",
   education: "B.E. Computer Science & Engineering, University of Mumbai (Expected 2027)",
